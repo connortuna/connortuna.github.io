@@ -1,3 +1,3 @@
-# connortuna.github.io
-my website
+# My Personal Collection Website
+
 here is the link to the site: https://connortuna.github.io/
